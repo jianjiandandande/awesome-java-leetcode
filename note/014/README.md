@@ -1,4 +1,4 @@
-# [Longest Common Prefix][title]
+# [Longest Commoefix][title]
 
 ## Description
 
